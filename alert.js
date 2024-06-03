@@ -1,1 +1,0 @@
-alert("Bol bhai kya kaam hai")
